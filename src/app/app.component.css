@@ -1,0 +1,52 @@
+h1,h2, p{
+    font-family: 'Oswald', sans-serif;
+    font-variant: Light;
+}
+
+.WelcomeCard {
+    position : absolute;
+    width : 100%;
+    left : 0px;
+    top : 0px;
+    background-color: #dfe4ec;
+    height : 853px;
+}
+
+.WelcomeImg{
+    position: absolute;
+    left : 50%;
+    margin-left: -637px;
+}
+
+.WelcomeName {
+    font-size: 35pt;
+    color: white;
+}
+
+.WelcomeSecondary {
+    font-size: 30pt;
+    color: white;
+
+}
+
+.WelcomeNameContainer {
+    top : 390px;
+    width: 100%;
+    left: 0px;
+    position : absolute;
+    text-align: center;
+}
+
+.WelcomeNameBack {
+    top : 420px;
+    width: 100%;
+    left: 0px;
+    height: 202px;
+    background-color : #A8D0E6;
+    position : absolute;
+    opacity: 85%;
+}
+
+.NavBar {
+
+}
