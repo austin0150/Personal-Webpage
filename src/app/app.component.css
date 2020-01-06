@@ -48,5 +48,11 @@ h1,h2, p{
 }
 
 .NavBar {
-
+    width: 100%;
+    position : sticky;
+    position: -webkit-sticky;
+    height: 25px;
+    background-color: #254E58;
+    top: 0px;
+    margin-top: 853px;
 }
