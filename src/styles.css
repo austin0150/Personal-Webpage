@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+.SectionHead {
+    position: relative;
+    left: 50%;
+    font-size: 35pt;
+    text-align: center;
+    width : 20%;
+    margin-left: -10%;
+}
+
+h1,h2, p{
+    font-family: 'Oswald', sans-serif;
+    font-variant: Light;
+}

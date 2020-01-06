@@ -1,0 +1,33 @@
+.NavBar {
+    width: 100%;
+    position : sticky;
+    position: -webkit-sticky;
+    height: 75px;
+    background-color: #254E58;
+    top: 0px;
+    margin-top: 853px;
+}
+
+.Button {
+    width: 10%;
+    height: 45px;
+    float: left;
+    background-color: #6E6658;
+    margin : 1em;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-variant: Light;
+    font-size: 20pt;
+}
+
+a:link, a:visited {
+    color: white;
+}
+
+a:link, a:visited, a:hover {
+    text-decoration: none;
+}
+
+a:hover {
+    color:#A8D0E6;
+}
