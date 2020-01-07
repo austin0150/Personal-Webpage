@@ -3,11 +3,12 @@
 }
 
 .Item {
-    width : 25%;
-    height : 45px;
+    width : 35%;
+    height : 50px;
     background-color: #88BDBC;
     float : left;
-    margin : 1em;
+    margin-left : 12em;
+    margin-top : 1em;
     text-align: center;
     
 }
