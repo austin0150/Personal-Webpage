@@ -1,8 +1,12 @@
 .Experience {
-    background-color: lightsteelblue;
-    height: 500px;
+    height: 1800px;
 }
 
-.Item {
-    
+.Divider {
+    height: 2px;
+    width: 75%;
+    background-color: lightgray;
+    left: 50%;
+    margin-left: -37.5%;
+    position: absolute;
 }
