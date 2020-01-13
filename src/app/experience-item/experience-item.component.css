@@ -5,28 +5,30 @@
 }
 
 .Company {
-    font-size : 25pt;
+    font-size : 14pt;
     margin-left: 15px;
-    margin-bottom: 5px;
+    margin-bottom: 0px;
+    margin-top: 0px;
 }
 
 .Dates {
     font-size : 14pt;
     margin-left: 15px;
     font-style: bold;
+    margin-top: 0px;
 }
 
 .DescList {
-    font-size : 14pt;
-    margin-left: 15px;
+    font-size : 12pt;
+    margin-left: 0px;
+    margin-top: 5px;
 }
 
 .Item {
-    left: 50%;
+    left: 40%;
     margin-left: -25%;
-    background-color: lightcyan;
     width: 50%;
-    height : 400px;
+    height : 200px;
     margin-bottom: 2em;
     position: relative;
     top: 5em;
@@ -36,18 +38,16 @@
     width: 30%;
     float: left;
     position: relative;
-    left: 15%;
-    background-color: firebrick;
-    top: 50%;
-    margin-top: -15%;
+    left: 14%;
+    margin-top: 0px;
+    text-align: right;
 }
 
 .RightSide {
-    width: 30%;
+    width: 50%;
     float: left;
-    top: 50%;
-    left: 40%;
-    margin-top: -10%;
+    left: 25%;
+    margin-top: 0px;
     position: relative;
-    background-color: violet;
+    text-align: left;
 }
